@@ -11,3 +11,10 @@
 - Languages: JavaScript, HTML, CSS, ECMAScript, PHP, C++, 6510, ARM... etc..etc
 - Social: Negatron99 in many places, Negatron99#0683 (Discord)
 - Personal Site: not yet
+
+#### Name: [Reuben Antz](https://github.com/antzshrek)
+- Country: Nigeria
+- Bio: Just a cool guy who is always ready to play with anything as long as it's tech related
+- Languages: JavaScript, C, GoLang ..etc
+- Social: `antzshrek` in many places including Discord, `antz_shrek` (twitter)
+- Personal Site: https://geekyourselfblog.wordpress.com
