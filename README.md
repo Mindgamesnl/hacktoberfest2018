@@ -6,11 +6,13 @@ Use this project to practise forking and PRing before jumping out and contributi
 This project is open to all and anyone is welcome, I'll try my best to merge all acceptable PR's and help anyone who needs any assistance.
 
 ## How to contribute
+
 1) Add your name to the contributers.md file, following the template of the others
 2) Create a simple script or a markdown file explaining and linking your own repo/project inside the `scripts` folder
 3) Commit, Push, PR
 
 ## How To Clone/Fork/PR/Stuff
+
 * Click the Fork button in the top right to make your own copy of this repo
 * Clone the repo to your own computer eg. `git clone https://github.com/your-username/hacktoberfest.git` or use the github desktop app
 * Follow the how to contribute guide
@@ -27,9 +29,13 @@ git push
 ### Bonus: Checkout the issues tab and help anyone thats lost
 
 ## If you're stuck
+
 Feel free to go to the issues tab and make a new issue if you're stuck, detailing your errors and what you need help with
 
 ## Useful Links
+
 [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
+
 [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
+
 [https://guides.github.com/](https://guides.github.com/)
