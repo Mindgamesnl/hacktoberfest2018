@@ -8,7 +8,7 @@ This project is open to all and anyone is welcome, I'll try my best to merge all
 ## How to contribute
 1) Add your name to the contributers.md file, following the template of the others
 2) Create a simple script or a markdown file explaining and linking your own repo/project inside the `scripts` folder
-3) commit, push, pr
+3) Commit, Push, PR
 
 ## How To Clone/Fork/PR/Stuff
 * Click the Fork button in the top right to make your own copy of this repo
