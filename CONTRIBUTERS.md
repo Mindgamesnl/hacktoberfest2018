@@ -5,4 +5,9 @@
 - Social: Cyan#0340 on Discord, [Cyan_101 on Twitter](https://twitter.com/Cyan_101)
 - Personal Site: N/A
 
-
+#### Name: [Jamie Chatterton/Negatron99](https://github.com/negatron99)
+- Country: UK
+- Bio: Trans Femme Geek
+- Languages: JavaScript, HTML, CSS, ECMAScript, PHP, C++, 6510, ARM... etc..etc
+- Social: Negatron99 in many places, Negatron99#0683 (Discord)
+- Personal Site: not yet
