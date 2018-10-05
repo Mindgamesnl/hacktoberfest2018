@@ -1,0 +1,172 @@
+@FONT-FACE {
+
+    font-family: c64;
+
+    src: url("font/C64_Pro_Mono_v1.0-STYLE.ttf"),
+    url("font/C64_Pro_Mono_v1.0-STYLE.eot");
+
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.c64 {
+    font-family: c64;
+    font-size: 16px;
+}
+
+#cursor {
+    position: absolute;
+    margin-top: -1;
+}
+
+pre {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+.c64_color_black {
+    color: #000000
+}
+
+.c64_color_white {
+    color: #FFFFFF
+}
+
+.c64_color_red {
+    color: #68372B
+}
+
+.c64_color_cyan {
+    color: #70A4B2
+}
+
+.c64_color_purple {
+    color: #6F3D86
+}
+
+.c64_color_green {
+    color: #588D43
+}
+
+.c64_color_blue {
+    color: #352879
+}
+
+.c64_color_yellow {
+    color: #B8C76F
+}
+
+.c64_color_orange {
+    color: #6F4F25
+}
+
+.c64_color_brown {
+    color: #433900
+}
+
+.c64_color_lightred {
+    color: #9A6759
+}
+
+.c64_color_darkgrey {
+    color: #444444
+}
+
+.c64_color_grey {
+    color: #6C6C6C
+}
+
+.c64_color_lightgreen {
+    color: #9AD284
+}
+
+.c64_color_lightblue {
+    color: #6C5EB5
+}
+
+.c64_color_lightgrey {
+    color: #959595
+}
+
+.c64_background_black {
+    background-color: #000000
+}
+
+.c64_background_white {
+    background-color: #FFFFFF
+}
+
+.c64_background_red {
+    background-color: #68372B
+}
+
+.c64_background_cyan {
+    background-color: #70A4B2
+}
+
+.c64_background_purple {
+    background-color: #6F3D86
+}
+
+.c64_background_green {
+    background-color: #588D43
+}
+
+.c64_background_blue {
+    background-color: #352879
+}
+
+.c64_background_yellow {
+    background-color: #B8C76F
+}
+
+.c64_background_orange {
+    background-color: #6F4F25
+}
+
+.c64_background_brown {
+    background-color: #433900
+}
+
+.c64_background_lightred {
+    background-color: #9A6759
+}
+
+.c64_background_darkgrey {
+    background-color: #444444
+}
+
+.c64_background_grey {
+    background-color: #6C6C6C
+}
+
+.c64_background_lightgreen {
+    background-color: #9AD284
+}
+
+.c64_background_lightblue {
+    background-color: #6C5EB5
+}
+
+.c64_background_lightgrey {
+    background-color: #959595
+}
+
+.hide {
+    visibility: hidden;
+}
+
+#foreground {
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    padding-top: 1;
+}
+
+#tv {
+    overflow: hidden;
+}
+
