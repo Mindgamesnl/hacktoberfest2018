@@ -30,7 +30,7 @@ git push
 
 ## If you're stuck
 
-Feel free to go to the issues tab and make a new issue if you're stuck, detailing your errors and what you need help with
+Feel free to go to the issues tab and make a new issue if you're stuck, detailing your errors and what you need help with.
 
 ## Useful Links
 
