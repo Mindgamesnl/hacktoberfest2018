@@ -18,3 +18,10 @@
 - Languages: JavaScript, C, GoLang ..etc
 - Social: `antzshrek` in many places including Discord, `antz_shrek` (twitter)
 - Personal Site: https://geekyourselfblog.wordpress.com
+
+#### Name: [Mats](https://github.com/Mindgamesnl)
+- Country: The Netherlands
+- Bio: Just a stupid kid, work as game developer in Amsterdam and have some various opensource projects
+- Languages: JavaScript, Java, Lua, Go, Php
+- Social: `Mindgamesnl` on many places, like twitter, spigot etc
+- Personal Site: https://craftmend.com/
